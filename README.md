@@ -60,6 +60,18 @@
 
 ![image](https://user-images.githubusercontent.com/106286065/230811941-3dfa0d3b-c75e-4657-99e2-819e7951157d.png)
 
+# How old are you 👴
+
+1. Ask the date of birth
+2. Identify the year of the date and save it as variable "birthYear"
+3. Identify the current year and save it as variable "actualYear"
+4. Use formula: Age = actualYear - birthYear
+5. If "actualYear" is greater than "birthYear" then print: You have "Age" years old, where "Age" is the result of the formula at step #4
+6. Else print: Invalid year, please check your date if birth
+7. End
+
+
+
 
 
 
