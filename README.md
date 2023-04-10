@@ -31,3 +31,25 @@
 8. Substract 32 from the temperature and multiply the result by 0,5556
 9. You have your Fahrenheit to Celsius conversion!
 10. Bye bye!
+
+# Some geometry 📐
+1. Let's caculate the volume of a 3D shape
+2. If the 3D shape is a Cube then
+  2.1 Get "a", where "a" is the length of one side of the cube
+  2.2 Use the formula: V = a^3
+  2.3 Print the result "V"
+3. If the 3D shape is a Pyramid then
+  3.1 Get "bw", where "bw" is the base width  of the pyramid
+  3.2 Get "bl", where "bl" is the base length of the pyramid
+  3.3 Get "h", where "h" is the heigth of the pyramid
+  3.4 Use the formula: V = 1/3 * (bw * bl * h)
+  3.5 Print the result "V"
+4. If the 3D shape is a Sphere then
+  4.1 Get "r", where "r" is the radius of the sphere
+  4.2 Use the formula: V =  4/3 * 3,1416 * r^3
+  4.3 Print the result "V"
+4. End
+  
+  
+  
+  
