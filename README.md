@@ -70,8 +70,20 @@
 6. Else print: Invalid year, please check your date if birth
 7. End
 
-
-
+# Find the treasure 👑
+Description:
+  We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
+Data:
+  Left chest (A): The middle chest has a treasure
+  Middle chest (B): All these chests have treasures in them
+  Right chest (C): Only one of these chests has treasures.
+Conclusions:
+  Left chest: The middle chest (B) is empty
+  Middle chest: Some chests have treasures
+  Right chest: More than one chest have treasures
+  
+Which chests have treasures?
+  Chests A and C
 
 
 
