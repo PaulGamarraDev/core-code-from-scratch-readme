@@ -49,7 +49,17 @@
   4.2 Use the formula: V =  4/3 * 3,1416 * r^3
   4.3 Print the result "V"
 4. End
-  
-  
-  
-  
+
+# Numbers 📈
+
+1. Get the number "n"
+2. Use the formula: N = n mod 2
+3. If N = 0 then print: the number is even
+4. Else print: the number is odd
+5. End
+
+![image](https://user-images.githubusercontent.com/106286065/230811941-3dfa0d3b-c75e-4657-99e2-819e7951157d.png)
+
+
+
+
