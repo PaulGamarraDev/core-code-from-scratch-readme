@@ -73,10 +73,12 @@
 # Find the treasure 👑
 Description:
   We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
+
 Data:
   Left chest (A): The middle chest has a treasure
   Middle chest (B): All these chests have treasures in them
   Right chest (C): Only one of these chests has treasures.
+
 Conclusions:
   Left chest: The middle chest (B) is empty
   Middle chest: Some chests have treasures
@@ -86,4 +88,39 @@ Which chests have treasures?
   Chests A and C
 
 
+### **WEEK 02**
 
+# Logic problem
+
+*Description:*
+
+The teacher asks his 5 students if they studied mathematics yesterday.
+  - Alice: "Nobody studied math yesterday".
+  - Bob: "1 person studied math yesterday".
+  - Charlie: "2 people studied math yesterday".
+  - Dan: "3 people studied mathematics yesterday".
+  - Eva: "4 people studied mathematics yesterday".
+  
+The teacher knows that only those who studied would be telling the truth and those who didn't would be lying. Who is telling the truth?
+
+*Data:*
+  - Alice: if she is telling the truth her argument would be illogical
+  - Eva: if she is telling the truth her argument would be in conflict with the other 3 students
+  - Dan: if he is telling the truth his argument would be in conflict with the other 2 students
+  - Charlie: if he is telling the truth his argument would be with every other student
+  - Bob: if he is telling the truth his argument is logical
+  
+*Conclusion:* Bob is telling the truth so he is the one who studied
+
+# Which comes first, cereal or milk?
+
+1. Look for a bowl
+2. Add your favourite cereal
+3. Add milk over the cereal
+4. Enjoy
+
+![image](https://user-images.githubusercontent.com/106286065/231032318-3597706d-859e-49dd-bbc6-9e1a232fe81c.png)
+
+
+  
+  
