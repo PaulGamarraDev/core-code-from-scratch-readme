@@ -35,3 +35,12 @@ The teacher knows that only those who studied would be telling the truth and tho
 
 ![image](https://user-images.githubusercontent.com/106286065/231033713-95d0e4b6-3de8-4d05-a34b-1ef175f6fa58.png)
 
+# Print my name
+
+This was a guided challenge, learning how to use PSeInt.
+![image](https://user-images.githubusercontent.com/106286065/231323372-2699ac10-47b6-4551-8624-02af29ca835f.png)
+
+
+
+
+
