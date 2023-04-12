@@ -40,6 +40,13 @@ The teacher knows that only those who studied would be telling the truth and tho
 This was a guided challenge, learning how to use PSeInt.
 ![image](https://user-images.githubusercontent.com/106286065/231323372-2699ac10-47b6-4551-8624-02af29ca835f.png)
 
+# Print my name & age
+
+*Description:*
+
+For this challenge, you will need to create an algorithm in Pseudocode using PSeInt that prints your name and your age in separate lines, remeber that your name should be a string and your age a number
+
+![image](https://user-images.githubusercontent.com/106286065/231327134-3945e4c4-c9b0-48f6-a1b9-c86e60ac2c75.png)
 
 
 
