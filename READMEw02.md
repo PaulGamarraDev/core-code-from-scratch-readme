@@ -48,6 +48,10 @@ For this challenge, you will need to create an algorithm in Pseudocode using PSe
 
 ![image](https://user-images.githubusercontent.com/106286065/231327134-3945e4c4-c9b0-48f6-a1b9-c86e60ac2c75.png)
 
+# Mod in PSeInt Challenge
 
+The challenge for you now is to create a PSeInt program that will receive a number from the user and add the mod operator using the even/odd case ( X % 2 ) where X is the user input
+
+![image](https://user-images.githubusercontent.com/106286065/231624108-e6b2f416-d70d-4218-b046-70a800990e17.png)
 
 
