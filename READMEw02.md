@@ -54,4 +54,18 @@ The challenge for you now is to create a PSeInt program that will receive a numb
 
 ![image](https://user-images.githubusercontent.com/106286065/231624108-e6b2f416-d70d-4218-b046-70a800990e17.png)
 
+# Register form
+
+*Description:*
+
+You are given the task to create a registration form for new users, this form should ask the user for the following information:
+- First name
+- Last name
+- Age
+- Email
+- Address
+At the end of the program, you should print all the information added from the user in a friendly way
+
+![image](https://user-images.githubusercontent.com/106286065/231628023-32591a89-d209-4f35-a9fb-6717d0ecffff.png)
+
 
