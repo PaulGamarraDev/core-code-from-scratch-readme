@@ -105,3 +105,16 @@ Algoritmo boolean
 FinAlgoritmo
 
 ![image](https://user-images.githubusercontent.com/106286065/231914328-32122038-dd44-493f-a96f-284ce5a326c7.png)
+
+# Identify odd and even numbers
+
+*Description:*
+Remember the last challenge about the Mod operator? well, today your task will be to create a program that will be able to detect based on the user input if the number is odd or even. The process should be the following:
+
+The user enters a number
+Your algorithm detects if the number is odd or even (remember to use conditional statements Si...Entonces)
+- Print ‘Número: x es par’ if the number is even (x is the number the user enters)
+- Print ‘Número: x es impar’ if the number is odd (x is the number the user enters)
+
+![image](https://user-images.githubusercontent.com/106286065/231919619-bc30f884-515b-4c6f-b442-e32d05f860fe.png)
+
