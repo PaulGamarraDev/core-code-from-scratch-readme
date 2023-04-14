@@ -68,4 +68,21 @@ At the end of the program, you should print all the information added from the u
 
 ![image](https://user-images.githubusercontent.com/106286065/231628023-32591a89-d209-4f35-a9fb-6717d0ecffff.png)
 
+# Truth tables
 
+*Description:* Answer ✅ or ❌ at the end of each operation
+
+T & T = T ✅
+T & F = F ✅
+F & T = T ❌
+F & F = F ✅
+T | T = T ✅
+T | F = F ❌
+F | T = T ✅
+F | F = F ✅
+~T = T ❌
+~F = T ✅
+(T & F) | (~F) = T ✅
+(T | F ) & (F | F) = T ❌
+~((T | F ) & (F | F)) & F = T ❌
+~((T | F ) & (F | F)) & T = F ❌
