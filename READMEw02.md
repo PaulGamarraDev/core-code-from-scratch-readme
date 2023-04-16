@@ -118,3 +118,7 @@ Your algorithm detects if the number is odd or even (remember to use conditional
 
 ![image](https://user-images.githubusercontent.com/106286065/231919619-bc30f884-515b-4c6f-b442-e32d05f860fe.png)
 
+Alternative Solution:
+
+![image](https://user-images.githubusercontent.com/106286065/232262131-26874e69-4bc2-4888-a6c5-5fda5b72c66a.png)
+
