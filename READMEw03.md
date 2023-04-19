@@ -17,4 +17,4 @@ Solution 01:
 
 Solution 02:
 
-![image](https://user-images.githubusercontent.com/106286065/232949871-0215807e-cd74-4c22-97c9-2f62294874c4.png)
+![image](https://user-images.githubusercontent.com/106286065/232954744-777c41d3-c094-4627-83f2-50b07f067239.png)
