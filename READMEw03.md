@@ -14,3 +14,7 @@ The calculator must ask the user for two numbers, after asking for the two numbe
 Solution 01:
 
 ![image](https://user-images.githubusercontent.com/106286065/232945445-99a44181-67c8-4c0a-9f12-de02f28448ea.png)
+
+Solution 02:
+
+![image](https://user-images.githubusercontent.com/106286065/232949871-0215807e-cd74-4c22-97c9-2f62294874c4.png)
