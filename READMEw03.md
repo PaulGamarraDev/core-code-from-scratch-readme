@@ -53,12 +53,20 @@ For this challenge you will create a program to calculate the multiplication tab
 
 ![image](https://user-images.githubusercontent.com/106286065/234161216-5b7cac59-da1d-4931-af5a-5101a1d8c566.png)
 
-#Simple calculator with Do While
+# Simple calculator with Do While
 
 *Description:*
 
 For this challenge we are going to use the simple calculator that we made in the challenge 02 but now adding the functionality to perform a calculation again without finishing the program. The program should ask us if we want to use another operation and if the user answers yes then we can perform a new operation. To solve this challenge remember to use Do while (Repetir Hasta Que).
 
 ![image](https://user-images.githubusercontent.com/106286065/234744264-39c2e293-3ae4-4981-9b8e-2fe7a6bf83f5.png)
+
+# Multiplication Tables with For
+
+*Description:*
+
+For this challenge you will create a program to calculate the multiplication tables for a given number using the For(Para) loop. The user must enter a number and then the multiplication table for the number must be printed.
+
+![image](https://user-images.githubusercontent.com/106286065/235010645-707922e0-26a4-40ce-89f2-e60ff92a4750.png)
 
 
