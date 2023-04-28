@@ -69,4 +69,11 @@ For this challenge you will create a program to calculate the multiplication tab
 
 ![image](https://user-images.githubusercontent.com/106286065/235010645-707922e0-26a4-40ce-89f2-e60ff92a4750.png)
 
+# Ascending and Descending Numbers
+
+*Description:*
+
+For this challenge we are going to print numbers in ascending or descending order. The user must enter a number, then he must enter if he wants to print the numbers in ascending or descending order. If the user chooses ascending, the numbers will be printed from the number 0 to the number entered, otherwise the numbers will be printed descending from the number entered to the number 0.To solve this challenge remember to use the For(Para) loop.
+
+![image](https://user-images.githubusercontent.com/106286065/235023535-8302b8c8-addf-44c5-9891-87d1700c67e9.png)
 
