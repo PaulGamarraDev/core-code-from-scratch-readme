@@ -77,3 +77,17 @@ For this challenge we are going to print numbers in ascending or descending orde
 
 ![image](https://user-images.githubusercontent.com/106286065/235023535-8302b8c8-addf-44c5-9891-87d1700c67e9.png)
 
+# Greetings
+
+*Description:*
+
+For this challenge, you need to create a program that prints a greeting based on an hour entered. The program should do the following:
+
+- Print Buenos dias! if the hour is from 0 to 12
+- Print Buenas tardes! if the hour is from 13 to 18
+- Print Buenas noches! if the hour is from 19 to 23
+- Ask the user if he wants to perform another greeting. If the answer is Si, the program must start again.
+- At the end of the program, print out the number of times the program has greeted.
+
+![image](https://user-images.githubusercontent.com/106286065/235330115-b67169d4-8c3b-404e-b99a-bd809cafb8a9.png)
+
