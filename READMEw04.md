@@ -19,4 +19,10 @@ Request a number from 1 to 50, if the number is not between those values, report
 
 ![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/b497e2d8-457d-449a-8d2b-84e8bde9ffa0)
 
+# Full name
+
+*Description:*
+
+Make a program that takes a first name and a last name, then returns a string with both values with the first letter uppercase and the rest lowercase.
+![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/69078207-1362-4142-8c03-5e940910a202)
 
