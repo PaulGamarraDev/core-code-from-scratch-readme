@@ -31,8 +31,16 @@ Make a program that takes a first name and a last name, then returns a string wi
 
 *Description:*
 
-Make a program that simulates the roll of 2 dice 10 times, and display for each roll the values ​​of the two dice separated by a space, in case the 2 dice throw the same value in addition to the result, add a string to the ending that says "the dice are the same".
+Make a program that simulates the roll of 2 dice 10 times, and display for each roll the values of the two dice separated by a space, in case the 2 dice throw the same value in addition to the result, add a string to the ending that says "the dice are the same".
 
 ![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/8cada6fc-77f2-4d7d-a2ee-f308f094820f)
+
+# Distance to zero
+
+*Description*
+
+Make a program that asks for 5 values and also allows us to know which one is furthest from zero, once obtained it returns that number (the numbers can be negative), showing only the integer part of the number.
+
+![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/efedc258-59d6-456d-8ae5-a24c13c145d5)
 
 
