@@ -43,4 +43,13 @@ Make a program that asks for 5 values and also allows us to know which one is fu
 
 ![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/efedc258-59d6-456d-8ae5-a24c13c145d5)
 
+# Toss coin
+
+*Description*
+
+From the data we receive first a name and a value, then another name and another value, using the built-in function aleatorio() we simulate the flip of a coin, We must return the name of the winner in capital letters and the value I win, to avoid cheating, if a player puts a value of zero or negative, the opponent automatically wins, in case both cheat, "game canceled" is returned.
+
+![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/89a99e1b-2761-46d1-9516-25f69bdcafde)
+
+
 
