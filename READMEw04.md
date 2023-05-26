@@ -24,5 +24,15 @@ Request a number from 1 to 50, if the number is not between those values, report
 *Description:*
 
 Make a program that takes a first name and a last name, then returns a string with both values with the first letter uppercase and the rest lowercase.
+
 ![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/69078207-1362-4142-8c03-5e940910a202)
+
+# Throw dice
+
+*Description:*
+
+Make a program that simulates the roll of 2 dice 10 times, and display for each roll the values ​​of the two dice separated by a space, in case the 2 dice throw the same value in addition to the result, add a string to the ending that says "the dice are the same".
+
+![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/8cada6fc-77f2-4d7d-a2ee-f308f094820f)
+
 
