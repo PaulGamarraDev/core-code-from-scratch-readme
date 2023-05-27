@@ -51,5 +51,14 @@ From the data we receive first a name and a value, then another name and another
 
 ![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/115a1919-be8c-48b4-bd54-dba5b53dcf1e)
 
+# Total price
+
+*Description*
+
+Create a function called TotalPrice that takes 2 parameters, price and VAT, and returns the price including VAT. if the price exceeds 3000 a 10 percent discount is made on the total price.
+
+![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/235734c1-e7c5-43ca-83a9-fec6899919f2)
+
+
 
 
