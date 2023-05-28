@@ -59,6 +59,19 @@ Create a function called TotalPrice that takes 2 parameters, price and VAT, and 
 
 ![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/235734c1-e7c5-43ca-83a9-fec6899919f2)
 
+# Reverse direction and size
+
+*Description*
+
+Create a function called ReverseDirectionAndSize that takes some text as a parameter and reverses it, eg: "Hello" -> "olleH" and also reverses the letters if they are uppercase to lowercase and if they are lowercase to uppercase, it should do something. like this:
+
+"HelLO" --> "olLEh"
+"Leonardo" --> "ODRANOEl"
+"Text" --> "TXEt"
+
+![image](https://github.com/PaulGamarraDev/core-code-from-scratch-readme/assets/106286065/3b98619c-8db4-48aa-8346-5f51fd3d9d0f)
+
+
 
 
 
